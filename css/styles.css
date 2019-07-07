@@ -4,23 +4,25 @@ body {
  background-size:cover;
  background-attachment:scroll;
  background-color: #cccccc;
+ background-attachment: fixed;
 }
 
 h1{
   text-align: center;
-  color: #ffffff;
+  color: #f0b49c;
   font-size: 150px;
   font-family: sans-serif;
 }
 
 h2{
-  color: #ffffff;
+  color: #c94410#f0b49c;
   font-family: sans-serif;
   text-align: center;
+  font-size: 80px;
 }
 
 h3{
-  color: #ffffff;
+  color: ##c94410;
   font-family: sans-serif;
 }
 
