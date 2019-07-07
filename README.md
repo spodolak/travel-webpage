@@ -4,7 +4,7 @@ Exercise for Epicodus 07.07.2019
 ## By Stephanie Podolak
 
 ### Description
-Simple web page designed for travel information. Excercise used to learn branching. 
+Simple web page designed for travel information. Exercise used to learn branching. 
 
 ### Setup
 Clone this repository <br>
