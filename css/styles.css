@@ -1,12 +1,35 @@
 body {
- background-image: url("https://resources.stuff.co.nz/content/dam/images/1/l/b/7/n/k/image.related.StuffLandscapeSixteenByNine.710x400.1lghu5.png/1507765642168.jpg");
+ background-image: url("https://thewallpapers.org/zoom/76402/rainforrest.jpg");
  background-repeat:no-repeat;
  background-size:cover;
+ background-attachment:scroll;
  background-color: #cccccc;
 }
 
 h1{
   text-align: center;
   color: #ffffff;
-  font-size: 190px;
+  font-size: 150px;
+  font-family: sans-serif;
+}
+
+h2{
+  color: #ffffff;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h3{
+  color: #ffffff;
+  font-family: sans-serif;
+}
+
+p{
+  color: #ffffff;
+  font-family: sans-serif;
+}
+
+li{
+  color: #ffffff;
+  font-family: sans-serif;
 }
