@@ -1,12 +1,40 @@
 body {
- background-image: url("https://thewallpapers.org/zoom/61136/Sun-And-Sea-027.jpg");
+ background-image: url("http://www.4usky.com/data/out/97/164880223-tropical-island-wallpapers.jpg");
  background-repeat:no-repeat;
  background-size:cover;
  background-color: #cccccc;
+ background-position: center center;
+ background-attachment: fixed;
 }
 
 h1{
   text-align: center;
-  color: #ffffff;
+  color: #cae03a;
+  font-family: sans-serif;
   font-size: 190px;
+}
+
+h2{
+  text-align: center;
+  color: #cae03a;
+  font-family:sans-serif;
+  font-size: 100px;
+}
+
+h3{
+  color: #f56342;
+  font-size: 60px;
+  font-family: sans-serif;
+}
+
+p{
+  color: #f56342;
+  font-size: 30px;
+  font-family:sans-serif;
+}
+
+li{
+  color: #f56342;
+  font-size: 60px;
+  font-family: sans-serif;
 }
